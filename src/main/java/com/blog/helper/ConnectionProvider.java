@@ -5,7 +5,7 @@ public class ConnectionProvider
 	private static Connection con;
 	private static String url = "jdbc:mysql://localhost:3306/blog";
 	private static String userName = "root";
-	private static String passWord = "Omkar2001#";
+	private static String passWord = "########";
 	
 	public static Connection getConnection()
 	{
